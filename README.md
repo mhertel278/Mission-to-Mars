@@ -11,10 +11,13 @@ The purpose of this project was to scrape the NASA webpage for the latest news a
 Below are samples of the image, facts table, and button as they appear on the webpage:
 
 Featured Image:
+
 ![image](Resources/featured_image.png)
 
 Facts Table:
+
 ![facts](Resources/facts.png)
 
 Update Button:
+
 ![button](Resources/button.png)
